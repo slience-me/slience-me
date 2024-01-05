@@ -8,8 +8,7 @@
    <img src="https://komarev.com/ghpvc/?username=slience-me&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </p>
 <p align="center">  How to reach me 📫 slienceme520@gmail.com 📫
-
-<p align="center"><img width="300" height="300" style="border-radius: 30px" src="https://avatars.githubusercontent.com/u/77472835?v=4"/> </div>
+<p align="center"><img width="300" height="300" style="border-radius: 30px" src="./image/avator.png"/> </div>
 
 <!--
 **slience-me/slience-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-  
+
 ## 我是Slience_me 🐟
 - 🐧 各个方面都研究点的小学生(戏称)，还在上学中！
 - 🏡 作品：<a href="https://github.com/slience-me/PhotoCloud" target="_blank">图云客户端</a> | <a href="https://github.com/slience-me/Yiwushop" target="_blank">易物商城</a> 等等一些内容
