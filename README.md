@@ -7,8 +7,9 @@
    <a href="https://blog.csdn.net/slience_me/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
    <img src="https://komarev.com/ghpvc/?username=slience-me&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </p>
-<p align="center">  How to reach me 📫 slienceme520@gmail.com 📫
-<p align="center"><img src="./image/avator.png"/> </div>
+<p align="center">  How to reach me 📫 slienceme520@gmail.com 📫 </p>
+<p align="center"><img src="./image/avator.png"/> </p>
+
 
 <!--
 **slience-me/slience-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
