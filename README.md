@@ -8,8 +8,8 @@
    <img src="https://komarev.com/ghpvc/?username=slience-me&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </p>
 <p align="center">  How to reach me 📫 slienceme520@gmail.com 📫 </p>
-<p align="center"><img height='230' width='230' src="./image/avator.png"/> </p>
-
+<!-- <p align="center"><img height='230' width='230' src="./image/avator.png"/> </p> -->
+<p align="center"><img height='230' width='230' src="./image/_1280_1280.png"/> </p>
 
 <!--
 **slience-me/slience-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
