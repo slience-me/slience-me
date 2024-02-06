@@ -36,17 +36,16 @@ Here are some ideas to get you started:
 
 ## 我是Slience_me 🐟
 - 🐧 各个方面都研究点的小学生(戏称)，还在上学中！
-- 🏡 作品：<a href="https://github.com/slience-me/PhotoCloud" target="_blank">图云客户端</a> | <a href="https://github.com/slience-me/Yiwushop" target="_blank">易物商城</a> 等等一些内容
+- 🏡 作品：<a href="https://github.com/slience-me/PhotoCloud" target="_blank">图云客户端</a> | <a href="https://github.com/slience-me/Yiwushop" target="_blank">易物商城(合作)</a> | 库管系统 | 诊所管理系统 | 谷粒学苑(学) | 实验室管理小程序(合作)等等一些项目
 - 😺 CSDN博客：<a href="https://blog.csdn.net/slience_me" target="_blank">CSDN: slience_me</a>
 - 💬 个人博客：<a href="https://slienceme.xyz" target="_blank">slience_me</a>
 
 
 ## 今年汇总 ✨
 
-
-
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=slience-me&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slience-me&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+<!-- 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -56,4 +55,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) -->
