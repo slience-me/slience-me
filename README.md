@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 - 🐧 各个方面都研究点的小学生(戏称)，还在上学中！
 - 🏡 作品：<a href="https://github.com/slience-me/PhotoCloud" target="_blank">图云客户端</a> | <a href="https://github.com/slience-me/Yiwushop" target="_blank">易物商城</a> 等等一些内容
 - 😺 CSDN博客：<a href="https://blog.csdn.net/slience_me" target="_blank">CSDN: slience_me</a>
-- 📚 gitee仓库：<a href="https://gitee.com/slience-me" target="_blank">Slience_me</a>
 - 💬 个人博客：<a href="https://slienceme.xyz" target="_blank">slience_me</a>
 
 
