@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 ![访客数](https://profile-counter.glitch.me/slience-me/count.svg)
 -->
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
+  
+<!-- 
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-<!-- 
 ## 我是Slience_me 🐟
 
 - 🏡 作品：<a href="https://github.com/slience-me/PhotoCloud" target="_blank">图云客户端</a> | <a href="https://github.com/slience-me/Yiwushop" target="_blank">易物商城(合作)</a> | 库管系统 | 诊所管理系统 | 谷粒学苑(学) | 实验室管理小程序(合作)等等一些项目
