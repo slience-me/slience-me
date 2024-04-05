@@ -33,14 +33,14 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
+<!-- 
 ## 我是Slience_me 🐟
 
 - 🏡 作品：<a href="https://github.com/slience-me/PhotoCloud" target="_blank">图云客户端</a> | <a href="https://github.com/slience-me/Yiwushop" target="_blank">易物商城(合作)</a> | 库管系统 | 诊所管理系统 | 谷粒学苑(学) | 实验室管理小程序(合作)等等一些项目
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=slience-me&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slience-me&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-<!-- 
+
 - 🐧 各个方面都研究点的小学生(戏称)，还在上学中！
 - 😺 CSDN博客：<a href="https://blog.csdn.net/slience_me" target="_blank">CSDN: slience_me</a>
 - 💬 个人博客：<a href="https://slienceme.xyz" target="_blank">slience_me</a>
