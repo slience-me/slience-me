@@ -10,6 +10,8 @@
 <p align="center">  How to reach me 📫 slienceme520@gmail.com 📫 </p>
 <!-- <p align="center"><img height='230' width='230' src="./image/avator.png"/> </p> -->
 <p align="center"><img height='230' width='230' src="./image/_1280_1280.png"/> </p>
+
+<!--
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -19,8 +21,6 @@
 ## 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=slience-me&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slience-me&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-<!--
 **slience-me/slience-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
