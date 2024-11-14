@@ -10,13 +10,15 @@
 <p align="center">  How to reach me 📫 slienceme520@gmail.com 📫 </p>
 <!-- <p align="center"><img height='230' width='230' src="./image/avator.png"/> </p> -->
 <p align="center"><img height='230' width='230' src="./image/_1280_1280.png"/> </p>
-
-<!--
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg">
+<img alt="github-snake" src="https://raw.githubusercontent.com/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg">
+</picture>
+<!--
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/slience-me/slience-me/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 ## 今年汇总 ✨
 
