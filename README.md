@@ -2,7 +2,7 @@
 
 <p align="center">
 <a title="github" target="_blank" href="https://github.com/slience-me"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dslience-me&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
-  <a href="https://slienceme.xyz/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+  <a href="https://slienceme.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
    <a href="https://blog.csdn.net/slience_me/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
    <img src="https://komarev.com/ghpvc/?username=slience-me&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </p>
@@ -20,7 +20,7 @@
 ## 今年汇总 ✨
 
 <p align="center">
-  <img alt="c_year_left" height="137px" src="https://github-readme-stats.vercel.app/api?username=slience-me&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img alt="c_year_right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slience-me&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+  <img alt="c_year_left" height="137px" src="https://github-readme-stats.vercel.app/api?username=slience-me&hide_title=true&hide_border=true&show_icons=true&在clude_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img alt="c_year_right" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slience-me&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </p>
 
 ---
