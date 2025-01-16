@@ -60,7 +60,7 @@
 
 #### 📬 How to Contact Me?
 
-- 📧 **Email:** slienceme520@gmail.com
+- 📧 **Email:** slienceme.cn@gmail.com
 
 ---
 
