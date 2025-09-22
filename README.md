@@ -8,13 +8,13 @@
    <img src="https://komarev.com/ghpvc/?username=slience-me&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </p>
 
-<p align="center"><img height='230' width='230' src="https://oss.slienceme.cn/2025/_640_640.png"/> </p> 
+<p align="center"><img height='230' width='230' src="https://slienceme.oss-cn-beijing.aliyuncs.com/2025/_640_640.png"/> </p> 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slience-me/slience-me/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slience-me/slience-me/main/profile-snake-contrib/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/slience-me/slience-me/main/profile-snake-contrib/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-proxy.com/https://raw.githubusercontent.com/slience-me/slience-me/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-proxy.com/https://raw.githubusercontent.com/slience-me/slience-me/main/profile-snake-contrib/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://gh-proxy.com/https://raw.githubusercontent.com/slience-me/slience-me/main/profile-snake-contrib/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
