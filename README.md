@@ -5,10 +5,11 @@
   <a href="https://slienceme.cn/"><img src="https://img.shields.io/badge/Website-主页-blu" /></a>
    <a href="https://blog.slienceme.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
    <a href="https://blog.csdn.net/slience_me/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
-   <img src="https://komarev.com/ghpvc/?username=slience-me&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+   <!-- <img src="https://komarev.com/ghpvc/?username=slience-me&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
 </p>
 
-<p align="center"><img height='230' width='230' src="https://slienceme.oss-cn-beijing.aliyuncs.com/2025/_640_640.png"/> </p> 
+<!-- <p align="center"><img height='230' width='230' src="https://slienceme.oss-cn-beijing.aliyuncs.com/2025/_640_640.png"/> </p>  -->
+<p align="center"><img height='230' width='230' src="./image/_1280_1280.png"/> </p> 
 
 <p align="center">
   <picture>
